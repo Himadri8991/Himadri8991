@@ -50,10 +50,12 @@ I'm an engineering student, a future developer 👨‍💻, and a technology ent
   
 <p align="center">
 <a href="https://github.com/Himadri8991">  
-	<img src="https://github-readme-stats.vercel.app/api?username=Himadri8991&show_icons=true&hide_border=true&count_private=true">
+	<!--img src="https://github-readme-stats.vercel.app/api?username=Himadri8991&show_icons=true&hide_border=true&count_private=true"-->
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himadri8991&show_icons=true&hide_border=true&layout=compact&langs_count=8">
 </a>
 </p>
+
+[![Himadri's GitHub | Stats](https://stats.quine.sh/Himadri/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Himadri)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himadri8991&show_icons=true&hide_border=true">
