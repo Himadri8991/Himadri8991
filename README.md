@@ -10,8 +10,6 @@
 I'm an engineering student, a future developer 👨‍💻, and a technology enthusiast from India 🚩  who is passionate about Cloud Computing, Web Development and Google Cloud. I'm also an AI enthusiast, aspiring technologist, internet surfer 🏄‍♂️ and the potential it holds for shaping the future. I'm always eager to learn and collaborate, and I'm currently exploring ways to apply my skills and knowledge to solve real-world problems. I'm actively seeking opportunities to gain practical experience and contribute to meaningful projects.
 
 
-<img align="right" height="400" width="400" alt="" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" />
-
 ### About me :eyes:
 
 <!--- 🔭 I’m currently working on -->
