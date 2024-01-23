@@ -55,10 +55,7 @@ I'm an engineering student, a future developer 👨‍💻, and a technology ent
 </a>
 </p>
 
-<p align="center">
 [![Himadri's GitHub | Stats](https://stats.quine.sh/Himadri/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Himadri)
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himadri8991&show_icons=true&hide_border=true">
