@@ -1,7 +1,9 @@
 ![Hello](Hello.gif)
 
 ![Name](name.jpg)
- 
+
+
+ <h3 align="center">Believes in Wanderlust + Wheels 🏍 + Code  = The Haven of My Heart</h3>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IamShivam8991?style=social)](https://twitter.com/intent/follow?screen_name=IamShivam8991) [![Linkedin Badge](https://img.shields.io/badge/-Himadri_Das-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/himadri-das-27487324a)](https://www.linkedin.com/in/himadri-das-27487324a) [![GitHub followers](https://img.shields.io/github/followers/Himadri8991?label=Follow&style=social)](https://github.com/Himadri8991/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-samhd8991@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:samhd8991@gamil.com)](mailto:samhd8991@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Himadri_Das-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/himadri.das.1829405)](https://www.facebook.com/himadri.das.1829405) [![Instagram Badge](https://img.shields.io/badge/-@shivam_8991d-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/shivam_8991d)](https://www.instagram.com/shivam_8991d)
@@ -20,7 +22,7 @@ I'm an engineering student, a future developer 👨‍💻, and a technology ent
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
 - ⚡ Languages: Python, C, C++, javascript
-- 🤪 Fun fact: I love to travel and meet new people.
+- 🤪 Fun fact: I'm not just a Coder, I'm a citizen of the world on Two Wheels. Fueled by Wanderlust and the thrill of Open Roads, I love Exploring new landscapes, Meeting Fascinating People, and pushing my Limits - both Physically and Technologically.
 
 ![](https://komarev.com/ghpvc/?username=Himadri8991&style=plastic)
 
@@ -56,8 +58,7 @@ I'm an engineering student, a future developer 👨‍💻, and a technology ent
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himadri8991&show_icons=true&hide_border=true">
 </p> 
-
-![Himadri's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=Himadri8991&theme=dracula) 
+ 
 </details>
 
 [![@himadri's Holopin board](https://holopin.me/himadri)](https://holopin.io/@himadri#badges)
@@ -67,5 +68,5 @@ I'm an engineering student, a future developer 👨‍💻, and a technology ent
 <br>
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/himadri-das-27487324a) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>✈️ Passport in hand, code in my heart, I'm always ready to connect with tech trailblazers from every time zone! 🌏 so if you want to be my friend or want to share your coding adventures, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/himadri-das-27487324a) and introduce yourself (But ditch the generic"hi" and, tell me about yourself or the projects that fuel your fire.</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
