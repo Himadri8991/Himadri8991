@@ -16,6 +16,7 @@ I'm an engineering student, a future developer 👨‍💻, and a technology ent
 
 <!--- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning Web Dev.
+- ❤️ My Love: Cloud
 - 💬 Ask me about: Tech, Songs, Movies/Webseries
 - 🥅 2024 Goals: Contribute more to Web Dev projects
 - 👯 I’m looking to collaborate with new project ideas
