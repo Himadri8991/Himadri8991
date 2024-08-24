@@ -3,7 +3,7 @@
 ![Name](name.jpg)
 
 
- <h3 align="center">Believes in Wanderlust + Wheels 🏍 + Code  = The Haven of My Heart</h3>
+ <h2 align="center">Believes in Wanderlust + Wheels 🏍 + Code  = The Haven of My Heart</h2>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IamShivam8991?style=social)](https://twitter.com/intent/follow?screen_name=IamShivam8991) [![Linkedin Badge](https://img.shields.io/badge/-Himadri_Das-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/himadri-das-27487324a)](https://www.linkedin.com/in/himadri-das-27487324a) [![GitHub followers](https://img.shields.io/github/followers/Himadri8991?label=Follow&style=social)](https://github.com/Himadri8991/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-samhd8991@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:samhd8991@gamil.com)](mailto:samhd8991@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Himadri_Das-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/himadri.das.1829405)](https://www.facebook.com/himadri.das.1829405) [![Instagram Badge](https://img.shields.io/badge/-@shivam_8991d-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/shivam_8991d)](https://www.instagram.com/shivam_8991d)
