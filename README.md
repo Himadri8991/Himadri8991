@@ -23,8 +23,8 @@
 - 🥅 2024 Goals: Contribute more to Web Dev projects
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
-- 😄 Pronouns: he/him
-- ⚡ Languages: Python, C, C++, javascript
+- 😄 Pronouns: He/Him
+- ⚡ Languages: Python, C, C++, HTML, CSS, javascript, Node js, React js
 - 🤪 Fun fact: I'm not just a Coder, I'm a citizen of the world on Two Wheels. Fueled by Wanderlust and the thrill of Open Roads, I love Exploring new landscapes, Meeting Fascinating People, and pushing my Limits - both Physically and Technologically.
 
 ![](https://komarev.com/ghpvc/?username=Himadri8991&style=plastic)
