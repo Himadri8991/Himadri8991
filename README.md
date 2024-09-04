@@ -75,3 +75,5 @@
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>✈️ Passport in hand, code in my heart, I'm always ready to connect with tech trailblazers from every time zone! 🌏 so if you want to be my friend or want to share your coding adventures, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/himadri-das-27487324a) and introduce yourself (But ditch the generic"hi" and, tell me about yourself or the projects that fuel your fire.</b> 😊 💜</em>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
