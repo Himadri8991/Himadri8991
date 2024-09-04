@@ -1,6 +1,6 @@
 ![Hello](Hello.gif)
 
-![Name](name.jpg)
+![Name](name.png)
 
 
  <h2 align="center">Believes in Wanderlust + Wheels 🏍 + Code  = The Haven of My Heart</h2>
