@@ -3,7 +3,7 @@
 ![Name](name.jpg)
 
 
- <h2 align="center">Believes in Wanderlust + Wheels 🏍 + Code  = The Haven of My Heart</h2>
+ <h2 align="center">Believes in Wanderlust + PB + Wheels 🏍 + Code = The Haven of My Heart</h2>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/IamShivam8991?style=social)](https://twitter.com/intent/follow?screen_name=IamShivam8991) [![Linkedin Badge](https://img.shields.io/badge/-Himadri_Das-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/himadri-das-27487324a)](https://www.linkedin.com/in/himadri-das-27487324a) [![GitHub followers](https://img.shields.io/github/followers/Himadri8991?label=Follow&style=social)](https://github.com/Himadri8991/?tab=follow)
 [![Gmail Badge](https://img.shields.io/badge/-samhd8991@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:samhd8991@gamil.com)](mailto:samhd8991@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Himadri_Das-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/himadri.das.1829405)](https://www.facebook.com/himadri.das.1829405) [![Instagram Badge](https://img.shields.io/badge/-@shivam_8991d-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/shivam_8991d)](https://www.instagram.com/shivam_8991d)
@@ -17,8 +17,8 @@
 ### About me :eyes:
 
 <!--- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning Web Dev.
-- ❤️ My Love: Cloud
+- 🌱 I’m currently learning `Web Dev`.
+- ❤️ My Love: `Cloud`
 - 💬 Ask me about: Tech, Songs, Movies/Webseries
 - 🥅 2024 Goals: Contribute more to Web Dev projects
 - 👯 I’m looking to collaborate with new project ideas
@@ -28,7 +28,11 @@
 - 🤪 Fun fact: I'm not just a Coder, I'm a citizen of the world on Two Wheels. Fueled by Wanderlust and the thrill of Open Roads, I love Exploring new landscapes, Meeting Fascinating People, and pushing my Limits - both Physically and Technologically.
 
 ![](https://komarev.com/ghpvc/?username=Himadri8991&style=plastic)
+<p align="center">
+<a href="https://g.dev/himadridas"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&center=true&pause=1000&color=EA4335&center=true&width=700&height=70&lines=Codaholic+To+Cloudaholic;Cloud+%26+AI-ML+Enthusiast;Aspiring+Technologist;Shaping+the+Future+with+the+Cloud;Turning+Problems+into+Solutions;Innovator+at+Heart%2C+Beats+for+Tech;Leadership+Maven+%7C+Passionate+Mentor;Ideas+Spark%2C+I+Deliver.;False+Blame%3F+A+Badge+for+Outshining;Cloud+%7C+Web+Dev+%7C+AI%2FML;Python+%7C+C+%7C+C%2B%2B" /></a>
+</p>
 
+### My Experience 🎓:
 
 
 
