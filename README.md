@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-samhd8991@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:samhd8991@gamil.com)](mailto:samhd8991@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Himadri_Das-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/himadri.das.1829405)](https://www.facebook.com/himadri.das.1829405) [![Instagram Badge](https://img.shields.io/badge/-@shivam_8991d-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/shivam_8991d)](https://www.instagram.com/shivam_8991d)
 [![GDG Badge](https://img.shields.io/badge/-himadri8-4267b2?style=social&&logo=GoogleDeveloperGroup&logoColor=blue&link=https://gdg.community.dev/u/himadri8)](https://gdg.community.dev/u/himadri8/)
 
- <h2 align="center">Cloud & AI Enthusiast and Aspiring Technologist</h2>
+ <h2 align="center">Cloud & AI Enthusiast and Aspiring Technologist 🕵️‍♂️</h2>
 
 ### I'm an engineering student, a future developer 👨‍💻, and a technology enthusiast from India 🚩  who is passionate about Cloud Computing, Web Development and Google Cloud. I'm also an AI enthusiast, aspiring technologist, internet surfer 🏄‍♂️ and the potential it holds for shaping the future. I'm always eager to learn and collaborate, and I'm currently exploring ways to apply my skills and knowledge to solve real-world problems. I'm actively seeking opportunities to gain practical experience and contribute to meaningful projects.
 
