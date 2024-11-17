@@ -72,6 +72,101 @@
 - 🎖️ `Table Tennis District Runners-Up` - West Bengal Table Tennis Association
   - Event: West Bengal State & Inter District Table Tennis Championships 2012 (Oct 2012)
 
+### 🛠️ My Skills
+
+#### 👉 Programming languages
+
+<p > 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+  </a> 
+&emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%232370ED.svg?style=plastic&logo=c++&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.javascript.com/" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
+  </a>
+</p>
+
+#### 👉 Development
+<p > 
+ &emsp;
+  <a href="https://cloud.google.com/" target="_blank">
+    <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud%20-%231572B6.svg?style=plastic&logo=Google-Cloud&logoColor=red">
+  </a> 
+  &emsp; 
+  <a href="https://www.geeksforgeeks.org/web-development/" target="_blank"> 
+   <img alt="Web Dev" src="https://img.shields.io/badge/Web%20Development%20-%23E34F26.svg?style=plastic&logo=Web-Development&logoColor=white">
+  </a> 
+ &emsp;
+  <a href="https://aws.amazon.com/free/ai/?gclid=CjwKCAiAxea5BhBeEiwAh4t5KyN6Xaf1anKmfyBIrRbKMvvq7lkQ2O9woS4IGNsySmwtFCJGBM9JjhoC-PIQAvD_BwE&trk=802ddb24-0795-462b-863c-f5dd188fa094&sc_channel=ps&ef_id=CjwKCAiAxea5BhBeEiwAh4t5KyN6Xaf1anKmfyBIrRbKMvvq7lkQ2O9woS4IGNsySmwtFCJGBM9JjhoC-PIQAvD_BwE:G:s&s_kwcid=AL!4422!3!709180460087!e!!g!!%5Bartificial%20intelligence%5D!21584981968!167626443324" target="_blank">
+    <img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence%20-%231572B6.svg?style=plastic&logo=Artificial-Intelligence&logoColor=google">
+  </a>
+ &emsp;
+  <a href="https://aws.amazon.com/free/machine-learning/?gclid=CjwKCAiAxea5BhBeEiwAh4t5K7fvkc_maQ4Pv_iNScNjIhADxpqpMYML69kJ9iR1lZ1JMpxULOMlNRoCFBcQAvD_BwE&trk=802ddb24-0795-462b-863c-f5dd188fa094&sc_channel=ps&ef_id=CjwKCAiAxea5BhBeEiwAh4t5K7fvkc_maQ4Pv_iNScNjIhADxpqpMYML69kJ9iR1lZ1JMpxULOMlNRoCFBcQAvD_BwE:G:s&s_kwcid=AL!4422!3!709180460114!e!!g!!%5Bmachine%20learning%5D!21584981968!167626444204" target="_blank">
+    <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning%20-%231572B6.svg?style=plastic&logo=Machine-Learning&logoColor=none">
+  </a> 
+</p>
+
+ #### 👉 Software & Tools
+ 
+<p>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?style=plastic&logo=google%20sheets&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Mark Down" src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
+</p>
+
+ #### 👉 IDEs
+ 
+<p>
+	&emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="JupyterLab" src="https://img.shields.io/badge/JupyterLab-0078d7.svg?style=plastic&logo=JupyterLab&logoColor=white"></a>
+	&emsp;
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?style=plastic&logo=PyCharm&logoColor=white"></a>
+</p>
+
+<!--- #### 👉 Competitive Programming & Problem Solving
+ 
+<p align="center">
+  &emsp;
+    <a href="https://leetcode.com/u/Ankana_C/"><img alt = "LeetCode" src="https://img.shields.io/badge/Leetcode-%234285F4.svg?style=plastic&logo=leetcode&logoColor=white" /></a>
+</p>  --->
+
+ #### 👉 Operating Systems
+ 
+<p>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a> 
+</p>
+
+<br/>
+
 ### Languages and Tools :computer:
 <p align="left"><code><img alt="dart" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img alt="dart" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
