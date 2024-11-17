@@ -32,9 +32,45 @@
 <a href="https://g.dev/himadridas"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&center=true&pause=1000&color=EA4335&center=true&width=700&height=70&lines=Codaholic+To+Cloudaholic;Cloud+%26+AI-ML+Enthusiast;Aspiring+Technologist;Shaping+the+Future+with+the+Cloud;Turning+Problems+into+Solutions;Innovator+at+Heart%2C+Beats+for+Tech;Leadership+Maven+%7C+Passionate+Mentor;Ideas+Spark%2C+I+Deliver.;False+Blame%3F+A+Badge+for+Outshining;Cloud+%7C+Web+Dev+%7C+AI%2FML;Python+%7C+C+%7C+C%2B%2B" /></a>
 </p>
 
-### My Experience 🎓:
+### My Experience 🎓
+#### Current Roles 📢:
+- 🥇 `Organizer` - GDG-On Campus, SNU (Sep 2024 - Present)
+- 🥈 `Google Product Expert` (Dec 2022 - Present)
+- 🥈 `Google Cloud Innovator` (Nov 2022 - Present)
+- 🥇 `Microsoft Learn Beta Ambassador` (Dec 2023 - Present)
+- 🥇 `Postman API Expert` (May 2023 - Present)
+- 🥇 `Founder` - Pentaverse India (Dec 2023 - Present)
+- 🥇 `Core Member` - GDG Cloud Kolkata (Feb 2023 - Present)
+- 🥈 `Experienceed Editor` - Wikipedia (Sep 2023 - Present)
 
+#### Past Roles 📣:
+- 🥇 `Cloud Arcade Facilitator` - Google Cloud (Jun 2024 - Sep 2024)
+- 🥇 `GDSC Cloud Lead` - Google Developer Student Clubs (Aug 2023 - Sep 2024)
+- 🥇 `Cloud Mentor` - Google Cloud Career Path (GCCP) (Nov 2022 - Feb 2023)
+- 🥇 `Cloud Moderator` - Google Cloud Community Forum (GCCF) (Nov 2023 - Feb 2024)
+- 🥉 Android Dev Intern - Oasis Infobyte (Sep 2023 - Oct 2023)
+- 🥉 HR Intern - LearnX (Jul 2023 - Sep 2023)
+- 🥉 Core Member - SKEPSIS (Sep 2023 - Aug 2024)
+- 🥈 AI/ML Intern - AICTE NEAT (Jul 2022 - Sep 2022)
 
+#### Community Engagement & Campus Ambassador 🎲:
+- 🥈 Campus Ambassador - Multiple Tech Companies (2022 - Present)
+  - Promoting tech tools and innovations across campuses for platforms like Coding Ninja, Internshala, HackerEarth, Yodaafy, and Zuno by Foundit.
+- 🥈 Community Member - Various Tech Communities (2022 - Present)
+  - Engaging, mentoring, and growing communities in Cloud, AI/ML, Web Development, and Programming. Member of communities such as Code8, GDG Kolkata, GDSC, Hack4Bengal, Newton School, Kotlin User Group Kolkata, Shardeum, etc.
+- 🥉 Organizer & Volunteer for Campus and University Events (2023 - Present)
+
+#### Achievements 🏆:
+- 🎖️ `Excellent Innovation Award 2024` - Issued by AICTE, IIC (Institution’s Innovation Council), MoE's Innovation Cell, Udyog
+  - Project: E-Vigil (Sister Nivedita University)
+- 🎖️ `Innovative Excellence Award 2023` - Issued by AICTE, IIC (Institution’s Innovation Council), MoE's Innovation Cell, Udyog
+  - Project: HelpLo (Sister Nivedita University)
+- 🎖️ `Top 5 Team Award` - Issued by RISE Foundation IISER
+  - Project: HelpLo (Ideapool Contest, Mar 2023)
+- 🎖️ `Table Tennis State Semi-Finalist` - West Bengal Table Tennis Association
+  - Event: West Bengal State & Inter District Table Tennis Championships 2013 (Dec 2013)
+- 🎖️ `Table Tennis District Runners-Up` - West Bengal Table Tennis Association
+  - Event: West Bengal State & Inter District Table Tennis Championships 2012 (Oct 2012)
 
 ### Languages and Tools :computer:
 <p align="left"><code><img alt="dart" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
