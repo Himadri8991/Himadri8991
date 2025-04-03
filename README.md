@@ -35,7 +35,7 @@
 ### My Experience 🎓
 #### Current Roles 📢:
 - 🥇 `Organizer` - GDG-On Campus, SNU (Sep 2024 - Present)
-- 🥇 `Cloud Arcade Facilitator` - Google Cloud Skill Boost (April 2025 - Present)
+- 🥇 `Cloud Arcade Facilitator Cohort-1` - Google Cloud Skill Boost (April 2025 - Present)
 - 🥇 `Microsoft Learn Beta Ambassador` (Dec 2023 - Present)
 - 🥇 `Postman API Expert` (May 2023 - Present)
 - 🥇 `Founder` - Pentaverse India (Dec 2023 - Present)
