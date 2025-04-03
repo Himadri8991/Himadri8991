@@ -35,13 +35,14 @@
 ### My Experience 🎓
 #### Current Roles 📢:
 - 🥇 `Organizer` - GDG-On Campus, SNU (Sep 2024 - Present)
-- 🥈 `Google Product Expert` (Dec 2022 - Present)
-- 🥈 `Google Cloud Innovator` (Nov 2022 - Present)
+- 🥇 `Cloud Arcade Facilitator` - Google Cloud Skill Boost (April 2025 - Present)
 - 🥇 `Microsoft Learn Beta Ambassador` (Dec 2023 - Present)
 - 🥇 `Postman API Expert` (May 2023 - Present)
 - 🥇 `Founder` - Pentaverse India (Dec 2023 - Present)
 - 🥇 `Core Member` - GDG Cloud Kolkata (Feb 2023 - Present)
 - 🥈 `Experienceed Editor` - Wikipedia (Sep 2023 - Present)
+- 🥈 `Google Product Expert` (Dec 2022 - Present)
+- 🥈 `Google Cloud Innovator` (Nov 2022 - Present)
 
 #### Past Roles 📣:
 - 🥇 `Cloud Arcade Facilitator` - Google Cloud (Jun 2024 - Sep 2024)
