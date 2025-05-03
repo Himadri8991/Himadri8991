@@ -24,7 +24,7 @@
 - 👯 I’m looking to collaborate with new project ideas
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: He/Him
-- ⚡ Languages: Python, C, C++, HTML, CSS, javascript, Node js, React js
+- ⚡ Languages: Python, C, C++, HTML, CSS, javascript, Node js, React js, Next.js
 - 🤪 Fun fact: I'm not just a Coder, I'm a citizen of the world on Two Wheels. Fueled by Wanderlust and the thrill of Open Roads, I love Exploring new landscapes, Meeting Fascinating People, and pushing my Limits - both Physically and Technologically.
 
 ![](https://komarev.com/ghpvc/?username=Himadri8991&style=plastic)
@@ -85,6 +85,10 @@
 &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%232370ED.svg?style=plastic&logo=c++&logoColor=white">
+  </a>
+  &emsp;
+	<a href="https://react.dev/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/React%20-%232370ED.svg?style=plastic&logo=c++&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.javascript.com/" target="_blank"> 
