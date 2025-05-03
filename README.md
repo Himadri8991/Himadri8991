@@ -87,10 +87,7 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%232370ED.svg?style=plastic&logo=c++&logoColor=white">
   </a>
   &emsp;
-	<a href="https://react.dev/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/React%20-%232370ED.svg?style=plastic&logo=c++&logoColor=white">
-  </a>
-  &emsp;
+	
   <a href="https://www.javascript.com/" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=JavaScript&logoColor=black">
    </a>
