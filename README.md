@@ -215,7 +215,7 @@
  
 </details>
 
-[![@himadri's Holopin board](https://www.holopin.io/@himadri#badges)](https://www.holopin.io/@himadri#badges)
+[![@himadri's Holopin board](https://holopin.me/@himadri)](https://www.holopin.io/@himadri#badges)
 
 <!--footer-->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Himadri8991" alt="Himadri8991" /></a> </p>
