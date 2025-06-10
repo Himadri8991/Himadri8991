@@ -11,7 +11,7 @@
 
  <h2 align="center">Cloud & AI Enthusiast and Aspiring Technologist 🕵️‍♂️</h2>
 
-### I'm an engineer, a developer 👨‍💻, and a technology enthusiast from India 🚩  who is passionate about Cloud Computing, Web Development and Google Cloud. I'm also an AI enthusiast, aspiring technologist, internet surfer 🏄‍♂️ and the potential it holds for shaping the future. I'm always eager to learn and collaborate, and I'm currently exploring ways to apply my skills and knowledge to solve real-world problems. I'm actively seeking opportunities to gain practical experience and contribute to meaningful projects.
+### I'm an Engineer, a Developer 👨‍💻, and a technology enthusiast from India 🚩  who is passionate about Cloud Computing, Web Development and Google Cloud. I'm also an AI enthusiast, aspiring technologist, internet surfer 🏄‍♂️ and the potential it holds for shaping the future. I'm always eager to learn and collaborate, and I'm currently exploring ways to apply my skills and knowledge to solve real-world problems. I'm actively seeking opportunities to gain practical experience and contribute to meaningful projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
