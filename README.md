@@ -13,6 +13,7 @@
 
 ### I'm an engineering student, a future developer 👨‍💻, and a technology enthusiast from India 🚩  who is passionate about Cloud Computing, Web Development and Google Cloud. I'm also an AI enthusiast, aspiring technologist, internet surfer 🏄‍♂️ and the potential it holds for shaping the future. I'm always eager to learn and collaborate, and I'm currently exploring ways to apply my skills and knowledge to solve real-world problems. I'm actively seeking opportunities to gain practical experience and contribute to meaningful projects.
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About me :eyes:
 
@@ -32,7 +33,13 @@
 <a href="https://g.dev/himadridas"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=30&center=true&pause=1000&color=EA4335&center=true&width=700&height=70&lines=Codaholic+To+Cloudaholic;Cloud+%26+AI-ML+Enthusiast;Aspiring+Technologist;Shaping+the+Future+with+the+Cloud;Turning+Problems+into+Solutions;Innovator+at+Heart%2C+Beats+for+Tech;Leadership+Maven+%7C+Passionate+Mentor;Ideas+Spark%2C+I+Deliver.;False+Blame%3F+A+Badge+for+Outshining;Cloud+%7C+Web+Dev+%7C+AI%2FML;Python+%7C+C+%7C+C%2B%2B" /></a>
 </p>
 
-### My Experience 🎓
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align = 'right'>
+<img align='right' src="https://media.tenor.com/fOD0TBLKQg8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="40%">
+</p>
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">  My Experience 🎓
+
 #### Current Roles 📢:
 - 🥇 `Organizer` - GDG-On Campus, SNU (Sep 2024 - Present)
 - 🥇 `Cloud Arcade Facilitator Cohort-1` - Google Cloud Skill Boost (April 2025 - Present)
