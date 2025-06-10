@@ -80,6 +80,9 @@
 - 🎖️ `Table Tennis District Runners-Up` - West Bengal Table Tennis Association
   - Event: West Bengal State & Inter District Table Tennis Championships 2012 (Oct 2012)
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### 🛠️ My Skills
 
 #### 👉 Programming languages
@@ -195,14 +198,16 @@
 
 <details>	
   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <p align="center">
-<a href="https://github.com/Himadri8991">  
-	<!--img src="https://github-readme-stats.vercel.app/api?username=Himadri8991&show_icons=true&hide_border=true&count_private=true"-->
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himadri8991&show_icons=true&hide_border=true&layout=compact&langs_count=8">
-</a>
+<img align="left" src="https://media.tenor.com/l6hqyRVn4cwAAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" width="120px" height="150px">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himadri8991&show_icons=true&hide_border=true&layout=compact&langs_count=8" href="https://github.com/Himadri8991">
+
+<img align="right" src="https://media.tenor.com/mmlF_mTw310AAAAj/doctor-strange-in-the-multiverse-of-madness-doctor-strange.gif" href="https://github.com/Himadri8991" width="130px" height="150px">
 </p>
 
-[![Himadri's GitHub | Stats](https://stats.quine.sh/Himadri/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Himadri)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himadri8991&show_icons=true&hide_border=true">
@@ -210,7 +215,7 @@
  
 </details>
 
-[![@himadri's Holopin board](https://holopin.me/himadri)](https://holopin.io/@himadri#badges)
+[![@himadri's Holopin board](https://www.holopin.io/@himadri#badges)](https://www.holopin.io/@himadri#badges)
 
 <!--footer-->
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Himadri8991" alt="Himadri8991" /></a> </p>
@@ -218,6 +223,11 @@
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>✈️ Passport in hand, code in my heart, I'm always ready to connect with tech trailblazers from every time zone! 🌏 so if you want to be my friend or want to share your coding adventures, feel free to ping me on [LinkedIn](https://www.linkedin.com/in/himadri-das-27487324a) and introduce yourself (But ditch the generic"hi" and, tell me about yourself or the projects that fuel your fire.</b> 😊 💜</em>
+
+<p align='center'>
+<img align='center' src= "https://media.tenor.com/ivIQbWI5qe8AAAAi/spider-man-no-way-home-marvel-studios.gif" width="400px"  >
+</p>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 ![](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
